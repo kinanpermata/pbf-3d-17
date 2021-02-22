@@ -1,4 +1,4 @@
-# 02 - Hello Wolrd
+# 02 - Hello World
 
 ## Tujuan Pembelajaran
 1. Mahasiswa dapat membuat project pertama dengan menggunakan React.js
