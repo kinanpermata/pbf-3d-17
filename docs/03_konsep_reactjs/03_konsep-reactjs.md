@@ -1,4 +1,4 @@
-# 02 - Konsep ReactJS
+# 03 - Konsep ReactJS
 
 ## Tujuan Pembelajaran
 1. Mahasiswa dapat mempelajari konsep yang ada di ReactJS
