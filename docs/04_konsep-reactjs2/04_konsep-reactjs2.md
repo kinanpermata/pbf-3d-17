@@ -42,24 +42,28 @@
     6. Praktikum 6
 
         index-form:
+
         ![SS-1-6-1](img/praktikum6/index6-1.jpg)
 
         index-textarea:
+
         ![SS-1-6-2](img/praktikum6/index6-2.jpg)
 
         index-select:
+
         ![SS-1-6-3](img/praktikum6/index6-3.jpg)
 
         index-multiple-select:
+
         ![SS-1-6-4](img/praktikum6/index6-4.jpg)
 
 2. Hasil Tampilan
 
     1. Praktikum 1
 
-        ![SS-2-1](img/praktikum1/hasil-1.jpg)
+        ![SS-2-1-1](img/praktikum1/hasil1-1.jpg)
 
-        ![SS-2-1](img/praktikum1/hasil-2.jpg)
+        ![SS-2-1-2](img/praktikum1/hasil1-2.jpg)
 
     2. Praktikum 2
 
@@ -82,13 +86,17 @@
     6. Praktikum 6
 
         index-form:
+
         ![SS-2-6-1](img/praktikum6/hasil6-1.jpg)
 
         index-textarea:
+
         ![SS-2-6-2](img/praktikum6/hasil6-2.jpg)
 
         index-select:
+
         ![SS-2-6-3](img/praktikum6/hasil6-3.jpg)
 
         index-multiple-select:
+
         ![SS-2-6-4](img/praktikum6/hasil6-4.jpg)
