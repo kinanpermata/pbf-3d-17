@@ -1,7 +1,7 @@
 # 05 - Api Router ReactJS
 
 ## Tujuan Pembelajaran
-1. Mahasiswa dapat mempelajari konsep yang ada di ReactJS
+1. Mahasiswa dapat mempelajari routing dan API di ReactJS
 
 ## Hasil Praktikum
 
