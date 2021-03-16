@@ -2,6 +2,7 @@
 
 ## Tujuan Pembelajaran
 1. Mahasiswa dapat mempelajari routing dan API di ReactJS
+2. Mahasiswa dapat mempelajari menggunakan bootstrap di ReactJS
 
 ## Hasil Praktikum
 
@@ -56,9 +57,6 @@
 
     1. Source Code
 
-<<<<<<< Updated upstream
-    2. Hasil
-=======
         - App.js
 
             ![SS-3-1-1](img/tugas/app1.jpg)
@@ -84,4 +82,3 @@
         ![SS-3-3-3](img/tugas/hasiltugas3.jpg)
 
         ![SS-3-3-4](img/tugas/hasiltugas4.jpg)
->>>>>>> Stashed changes
