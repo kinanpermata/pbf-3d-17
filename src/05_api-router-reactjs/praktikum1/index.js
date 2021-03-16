@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 function DaftarArtikel(props){
@@ -9,6 +8,7 @@ function DaftarArtikel(props){
     <div>
       <h3>{props.judul}</h3>
       <div>{props.isiArtikel}</div>
+      <div>{props.key}</div>
     </div>
   );
 }
