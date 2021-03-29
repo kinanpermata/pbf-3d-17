@@ -67,3 +67,5 @@
     Setelah itu kita bisa mengatur controller halaman website tersebut
 
     ![SS-3-5](img/Tugas/app4.jpg)
+    
+    Link Github Kasus: https://github.com/gothinkster/react-redux-realworld-example-app
