@@ -36,10 +36,11 @@
 
         Middleware: Untuk memberikan titik ekstensi pihak ketiga antara pengiriman tindakan, dan saat tindakan tersebut mencapai reducer.
         Orang-orang menggunakan middleware Redux untuk pencatatan, pelaporan kerusakan, berbicara dengan API asinkron, routing, dll.
+        (https://redux.js.org/tutorials/fundamentals/part-4-store#:~:text=Redux%20middleware%20provides%20a%20third,API%2C%20routing%2C%20and%20more.)
 
-        Pure functions: Sebuah fungsi mengembalikan hasil yang sama untuk argumen yang sama.
+        Pure functions: Sebuah fungsi mengembalikan hasil yang sama untuk argumen yang sama. (https://www.tutorialspoint.com/redux/redux_pure_functions)
 
-        Immutability: Yaitu, bahwa sesuatu tidak dapat mengubah nilai atau statusnya.
+        Immutability: Yaitu, bahwa sesuatu tidak dapat mengubah nilai atau statusnya. (https://blog.logrocket.com/immutability-in-react-ebe55253a1cc/)
 
     3. Jelaskan maksud sintaks export default connect(mapStateToProps)(Counter) pada praktikum langkah 9 sebelumnya!
         Jawaban: Yaitu, untuk mengekspor class App dengan menggunakan koneksi.
