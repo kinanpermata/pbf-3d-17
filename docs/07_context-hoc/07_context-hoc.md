@@ -1,4 +1,4 @@
-# 06 - Context HOC
+# 07 - Context HOC
 
 ## Tujuan Pembelajaran
 1. Mahasiswa dapat mempelajari cara penggunaan Context dan Higher-Order Components (HOC) di ReactJS
