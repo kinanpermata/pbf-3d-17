@@ -1,4 +1,4 @@
-# 06 - Global API dan Hooks
+# 09 - Global API dan Hooks
 
 ## Tujuan Pembelajaran
 1. Mahasiswa dapat mempelajari tentang global Api dan hooks
