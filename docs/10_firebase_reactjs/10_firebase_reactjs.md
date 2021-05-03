@@ -53,8 +53,6 @@
 
         ![SS-2-2-1](img/2/hasil2.jpg)
 
-        ![SS-2-2-2](img/1.2/hasilda2.jpg)
-
     3. Praktikum 3
 
 
