@@ -120,3 +120,9 @@
         ![SS-2-5-3](img/1.5/hasil5.1.jpg)
 
 3. Tugas
+
+    ![SS-3-1](img/tugas/1.jpg)
+
+    ![SS-3-2](img/tugas/2.jpg)
+
+    ![SS-3-2](img/tugas/3.jpg)
