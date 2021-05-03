@@ -41,6 +41,17 @@
 
     3. Praktikum 3
 
+        a. firebase.config.js
+
+        ![SS-1-3-1](img/3/firebase-config.jpg)
+
+        b. src/components/Register.js
+
+        ![SS-1-3-2](img/3/register3.jpg)
+
+        c. src/components/Login.js
+
+        ![SS-1-2-3](img/3/login3.jpg)
 
 
 2. Hasil Tampilan
@@ -55,6 +66,8 @@
 
     3. Praktikum 3
 
+        ![SS-2-3-1](img/3/hasil-register.jpg)
 
+        ![SS-2-3-2](img/3/hasil-login.jpg)
 
 3. Tugas
