@@ -71,3 +71,9 @@
         ![SS-2-3-2](img/3/hasil-login.jpg)
 
 3. Tugas
+
+    ![SS-3-1](img/Tugas/tugas1.jpg)
+
+    ![SS-3-2](img/Tugas/tugas2.jpg)
+
+    ![SS-3-3](img/Tugas/tugas3.jpg)
