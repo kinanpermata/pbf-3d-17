@@ -67,3 +67,33 @@
         ![SS-2-2](img/hasillogin2.jpg)
 
 3. Tugas
+
+    1. Berdasarkan praktikum yang telah Anda lakukan, jelaskan perbedaan fitur yang ada dalam komponen Login dan Home! Mengapa komponen Login tidak menggunakan class seperti pada komponen Home?
+
+    Jawaban:
+    a. Perbedaan pada fitur Home dan Login adalah di halaman login memiliki fitur login dengan menggunakan email dan password sedangkan di halaman home memiliki tampilan halaman yang terproteksi.
+
+    Gambar:
+
+    ![SS-3-1](img/tugasno1.jpg)
+
+    b. Mengapa Login tidak menggunakan class seperti Home karena fungsi halaman nya berbeda.
+
+    2. Jelaskan kegunaan dan alur logika dari protectedRoute.js!
+
+    Jawaban: Kegunaan nya untuk memproteksi route ketika dari Login ke Home.
+
+    3. Coba lakukan login dengan email atau password yang salah, apa yang terjadi? Jelaskan!
+
+    Jawaban: Ketika kita menekan tombol login dengan email/password yang salah akan muncul pemberitahuan sedang loading kemudian ketika dikonfirmasi salah maka akan muncul pemberitahuan jika email/password salah.
+
+    Gambar:
+    ![SS-3-3](img/tugasno3.jpg)
+
+    4. Jika Anda berada di halaman Home, coba akses form login tanpa melakukan logout. Apakah form login bisa diakses? Jelaskan!
+
+    Jawaban:
+
+    5. Tambahkan menu Register pada form login sehingga user yang belum terdaftar dapat melakukan registrasi! Jika registrasi sukses, maka user langsung diarahkan ke halaman Home.
+
+    Jawaban:
