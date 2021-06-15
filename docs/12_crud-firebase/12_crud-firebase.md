@@ -62,4 +62,7 @@
     3. Praktikum 4
         ![SS-2-3]
 
+    Bukti data tersimpan di Firebase
+    ![SS-2-4](img/bukti.jpg)
+
 3. Tugas
